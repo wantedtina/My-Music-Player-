@@ -1,0 +1,13 @@
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\bin\Debug\CmTTPlayer.exe.config
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\bin\Debug\CmTTPlayer.exe
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\bin\Debug\CmTTPlayer.pdb
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\WalMusicBox.csproj.ResolveComReference.cache
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\CmTTPlayer.MainFrm.resources
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\CmTTPlayer.Properties.Resources.resources
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\WalMusicBox.csproj.GenerateResource.Cache
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\CmTTPlayer.exe
+C:\Users\tina\Desktop\w\CmTTPlayer\CmTTPlayer\obj\Debug\CmTTPlayer.pdb

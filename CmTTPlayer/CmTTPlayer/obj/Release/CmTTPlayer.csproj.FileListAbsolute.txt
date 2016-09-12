@@ -1,0 +1,5 @@
+F:\学习资料\项目程序\CmTTPlayer\CmTTPlayer\bin\Release\CmTTPlayer.exe.config
+F:\学习资料\项目程序\CmTTPlayer\CmTTPlayer\obj\Release\ResolveAssemblyReference.cache
+F:\学习资料\项目程序\CmTTPlayer\CmTTPlayer\obj\Release\CmTTPlayer.MainFrm.resources
+F:\学习资料\项目程序\CmTTPlayer\CmTTPlayer\obj\Release\CmTTPlayer.Properties.Resources.resources
+F:\学习资料\项目程序\CmTTPlayer\CmTTPlayer\obj\Release\CmTTPlayer.csproj.GenerateResource.Cache
